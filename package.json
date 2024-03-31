@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "package.json": "^2.0.1"
+  },
+  "name": "bantengtea",
+  "version": "0.1.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Membanteng/bantengtea"
+  },
+  "author": "banteng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Membanteng/bantengtea/issues"
+  },
+  "homepage": "https://github.com/Membanteng/bantengtea#readme",
+  "description": ""
+}
